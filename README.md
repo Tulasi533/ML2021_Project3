@@ -41,7 +41,7 @@ A simple chatbot using FLASK, PYTHON, JINJA2, HTML, CSS, JAVASCRIPT and JSON as 
 - **Coding Part**
   - Creating Flak Templates
   - Watch the below👇 video how I coded<br />
-    [![Demo_Video](https://img.youtube.com/vi/0rr1YXurPvA/0.jpg)](https://www.youtube.com/watch?v=0rr1YXurPvA)
+    [![Demo_Video](https://img.youtube.com/vi/tplSUg7bZhI/0.jpg)](https://www.youtube.com/watch?v=tplSUg7bZhI)
     
 # How to Deploy a Flask app in HEROKU
 
