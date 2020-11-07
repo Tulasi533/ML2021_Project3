@@ -57,6 +57,21 @@ A simple chatbot using FLASK, PYTHON, JINJA2, HTML, CSS, JAVASCRIPT and JSON as 
  - **Step - 8** :- In terminal, type  "heroku git:remote -a plantservobot"
  - **Step - 9** :- In terminal type "git push heroku master" click Enter
  
+ # Tools and Computer languages that I used for this Chatbot
+- VSCode for IDE
+- python 3.7.8
+- HTML, CSS, Java Script
+- Heroku
+- Flask framework for python
+
+# References
+- [For **Heroku download**](https://devcenter.heroku.com/articles/heroku-cli)
+  - Better to run this command **npm install -g heroku** in terminal rather than downloading.
+- [For more about **Falsk Templates**](https://flask.palletsprojects.com/en/1.1.x/tutorial/templates/)
+- [For more about **Falsk Templates**](https://flask.palletsprojects.com/en/1.1.x/tutorial/templates/)
+
+**Thank You!!!!!**
+ 
 
      
    
