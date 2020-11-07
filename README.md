@@ -68,7 +68,6 @@ A simple chatbot using FLASK, PYTHON, JINJA2, HTML, CSS, JAVASCRIPT and JSON as 
 - [For **Heroku download**](https://devcenter.heroku.com/articles/heroku-cli)
   - Better to run this command **npm install -g heroku** in terminal rather than downloading.
 - [For more about **Flask Templates**](https://flask.palletsprojects.com/en/1.1.x/tutorial/templates/)
-- [For more about **Flask Templates**](https://flask.palletsprojects.com/en/1.1.x/tutorial/templates/)
 
 **Thank You!!!!!**
  
